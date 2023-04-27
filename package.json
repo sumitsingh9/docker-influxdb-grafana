@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "influx": "^5.9.3",
+    "influxdb": "^0.0.1",
+    "influxdb-cli": "^0.2.0",
+    "k6": "^0.0.0"
+  }
+}
